@@ -2,6 +2,14 @@
     background-color: #8AAAE5;
 }
 
+.logo{
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    margin: 0 25px; 
+}
+
 .legenda{
     font-size: 70px;
     margin-left: 60px; 
@@ -52,6 +60,7 @@ nav ul li a {
 
 .aboutmeme{
     font-size: 40px;
+    display: flex;
 }
 .phota{
     width: 600px;
