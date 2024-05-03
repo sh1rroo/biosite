@@ -65,11 +65,6 @@ section{
     justify-content: center; 
 }
 
-h4{
-    font-size: 55px;
-    color: white;
-    width: 50px;
-}
 
 h1{
     font-size: 45px;
@@ -110,8 +105,10 @@ nav ul a{
 h3{
     font-size: 55px;
     color: white;
-    width: 50px;
     margin: 50px 70px;
+    text-align: center;
+    align-items: center;
+    margin-left: 130px;
 }
 
 .aboutme{
@@ -120,7 +117,7 @@ h3{
     align-items: center;
     justify-content: center; 
     font-family: sans-serif;
-    margin-top: 30px;
+    margin-top: 80px;
 }
 
 .aboutmeme{
@@ -137,44 +134,52 @@ h3{
 
 .promenya{
     font-size: 30px;
-    margin-top: 80px;
+    margin-top: 40px;
     color: white;
 }
 
 h4{
     font-size: 55px;
     color: white;
-    width: 50px;
     margin: 50px 70px;
+    text-align: center;
+    align-items: center;
+    margin-left: 200px;
 }
 
 h5{
     font-size: 40px;
     color: white;
     width: 50px;
-    margin-top: 80px;
-    margin-left: 50px;
+    margin-top: 95px;
+    margin-left: 500px;
 }
 
+.basketball{
+    margin-top: 65px;
+}
 
+.football{
+    margin-top: 45px;
+}
 
 .dflex{
     display: flex;
 }
 
 .ml50{
-    margin-left: 100px;
-    margin-top: 83px;
+    margin-left: 650px;
+    margin-top: 100px;
 }
 
 .ml51{
-    margin-left: 100px;
-    margin-top: 85px;
+    margin-left: 650px;
+    margin-top: 68px;
 }
 
 .ml52{
-    margin-left: 100px;
-    margin-top: 85px;
+    margin-left: 650px;
+    margin-top: 50px;
 }
 
 .w400{
@@ -200,7 +205,8 @@ h6{
     font-size: 55px;
     color: white;
     width: 50px;
-    margin: 100px 50px;
+    margin-left: 50px;
+    margin-top: 70px;
 }
 
 
@@ -220,15 +226,15 @@ h6{
 }
 
 .ez{
-    margin-top: 180px;
+    margin-top: 100px;
 }
 
 .telega{
-    margin-top: 390px;
+    margin-top: 200px;
 }
 
 .calc{
-    margin-top: 400px;
+    margin-top: 200px;
 }
 
 .phota{
@@ -242,13 +248,13 @@ h6{
 .sorti{
     font-size: 40px;
     color: white;
-    margin: 300px 100px;
+    margin-top: 300px;
 }
 
 .eda{
     font-size: 40px;
     color: white;
-    margin: 150px 100px;
+    margin-top: 80px;
 }
 
 #section5{
@@ -258,7 +264,7 @@ h6{
 .photaa{
     width: 600px;
     display: flex;
-    margin-top: 230px;
+    margin-top: 130px;
     margin-left: 100px;
 }
 
